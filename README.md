@@ -1,1 +1,1 @@
-bash script example
+python script example
